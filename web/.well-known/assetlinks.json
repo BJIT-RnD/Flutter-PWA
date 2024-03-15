@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.pwarnd",
+      "sha256_cert_fingerprints": [
+        "55:6A:47:7A:B8:06:86:71:FB:5A:7F:95:43:83:AE:55:1B:DC:79:A5:E7:A6:B5:1C:E6:A7:8C:A3:C1:93:99:11"
+      ]
+    }
+  }
+]
